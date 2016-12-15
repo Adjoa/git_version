@@ -1,4 +1,4 @@
-# This is the secondary branch
+# This is the tertiary branch
 # git_version.rb
 Facter.add('git_version') do
   setcode do
